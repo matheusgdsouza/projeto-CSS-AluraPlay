@@ -5,6 +5,8 @@
     justify-content: space-between;
     align-items: center;
     padding: 1em 1.2em;
+    position: fixed;
+    top: 0;
 }
 
 .cabecalho__img-logo {
