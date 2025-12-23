@@ -1,0 +1,18 @@
+.cabecalho {
+    background-color: var(--branco-background-cabecalho);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em 1.2em;
+}
+
+.cabecalho__img-logo {
+    width: 40%;
+}
+
+.cabecalho__navegacao-usuario {
+    display: flex;
+    flex-direction: row;
+    gap: 1.2em;
+}
