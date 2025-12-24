@@ -4,8 +4,16 @@
     --background-body: #E5F1FF;
     --branco-background-cabecalho: #FFFFFF;
     --cinza-claro: #ECECEC;
+    --azul-escuro: #154580;
 }
 
 body {
     background-color: var(--background-body);
+    padding-top: 8em;
+}
+
+@media (min-width: 834px) {
+    body {
+        padding-top: 6.5em ;
+    }
 }

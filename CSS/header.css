@@ -50,6 +50,7 @@
 @media (min-width: 834px) {
     .cabecalho {
         padding: 0em 2em;
+        border-bottom: solid 1px var(--azul-escuro);
     }
 
     .cabecalho__img-logo {
